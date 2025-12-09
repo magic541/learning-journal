@@ -14,6 +14,6 @@
 
 ## 2025-12-09 – Day 3 (light mode)
 - Python: Chapter 5 (loops) done
-- Bandit: levels 0–???
+- Bandit: levels 0–13
 - Only 5h sleep → chill day
 
