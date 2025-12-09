@@ -12,3 +12,8 @@
 - Bandit: levels 0–10 completed 🔥
 - System fully configured (pwntools via pipx)
 
+## 2025-12-09 – Day 3 (light mode)
+- Python: Chapter 5 (loops) done
+- Bandit: levels 0–???
+- Only 5h sleep → chill day
+
