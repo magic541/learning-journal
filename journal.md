@@ -17,3 +17,8 @@
 - Bandit: levels 0–13
 - Only 5h sleep → chill day
 
+## 2025-12-11 – Day 4
+- Python: Chapter 6 (strings) – postponed (work day)
+- Bandit: levels 14–17 completed (including the infamous 13→14 key hell 🔥)
+- System fully operational, persistence paid off
+
