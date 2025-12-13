@@ -22,3 +22,8 @@
 - Bandit: levels 14–17 completed (including the infamous 13→14 key hell 🔥)
 - System fully operational, persistence paid off
 
+## 2025-12-13 – Day 5
+- Python for Everybody: Chapter 5 (Loops and Iteration) completed ✅
+- Bandit: level 18 done (easy logout trick)
+- Level 19-20 postponed for tomorrow – steady pace
+
