@@ -27,3 +27,9 @@
 - Bandit: level 18 done (easy logout trick)
 - Level 19-20 postponed for tomorrow – steady pace
 
+## 2025-12-15 – Day 6
+- Python for Everybody: Chapter 6 (Strings) completed ✅
+- Operations on strings, slicing, methods – all done
+- Bandit postponed (work priority)
+- Steady and consistent progress
+
