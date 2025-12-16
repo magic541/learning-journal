@@ -33,3 +33,9 @@
 - Bandit postponed (work priority)
 - Steady and consistent progress
 
+## 2025-12-16 – Day 7
+- Python for Everybody: Chapter 7 (Files) completed ✅
+- Reading/writing files mastered
+- Bandit postponed (work day)
+- Consistent progress, no burnout
+
