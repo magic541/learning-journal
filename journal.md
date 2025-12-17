@@ -39,3 +39,8 @@
 - Bandit postponed (work day)
 - Consistent progress, no burnout
 
+## 2025-12-17 – Day 8
+- Python for Everybody: Chapter 8 (Lists) completed ✅
+- Bandit: level 20 done (nc listener trick mastered)
+- Work day – steady progress without burnout
+
