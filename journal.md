@@ -44,3 +44,8 @@
 - Bandit: level 20 done (nc listener trick mastered)
 - Work day – steady progress without burnout
 
+## 2025-12-21 – Day 9
+- Python: Chapter 9 (Dictionaries) completed
+- Bandit: levels 21–24 done (brute force PIN mastered 🔥)
+- Back after monitor break – strong progress
+
