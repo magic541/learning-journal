@@ -56,3 +56,9 @@
 - Bandit paused – celebrating the win
 - Ready for data structures and real projects
 
+## 2025-12-29 – Day 11 (powrót po świętach)
+- Python for Everybody Course 3: Chapter 11 (Regular Expressions) completed ✅
+- Regex mastered – extracting data like a pro
+- Bandit postponed – chill mode activated
+- Back in the game after Christmas break
+
