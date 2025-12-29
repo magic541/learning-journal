@@ -62,3 +62,9 @@
 - Bandit postponed – chill mode activated
 - Back in the game after Christmas break
 
+## 2025-12-29 – Day 11 (powrót po świętach)
+- Python: Chapter 11 (Regular Expressions) completed ✅
+- Bandit: levels 26–27 done (vi escape survived 🔥)
+- Coffee + walk = victory
+- Level 28 postponed – no burnout
+
