@@ -68,3 +68,9 @@
 - Coffee + walk = victory
 - Level 28 postponed – no burnout
 
+## 2025-12-30 – Day 12
+- Python for Everybody Course 3: Chapter 12 (Networks & Sockets) completed ✅
+- urllib, sockets, HTTP mastered – ready for web tools
+- Bandit paused (level 28 in progress)
+- Steady progress before New Year
+
