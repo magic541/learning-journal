@@ -74,3 +74,9 @@
 - Bandit paused (level 28 in progress)
 - Steady progress before New Year
 
+## 2025-12-31 – Day 13 (New Year's Eve)
+- Python for Everybody Course 3: Chapter 12 (Programs that Surf the Web) completed ✅
+- urllib, sockets, web scraping mastered
+- Assignment done – following links and extracting data
+- Bandit paused – celebrating the progress
+- Happy New Year 2026 ahead!
