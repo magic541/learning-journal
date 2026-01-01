@@ -85,3 +85,9 @@
 - XML parsing with elementtree mastered
 - Ready for databases and real-world data tools
 - Happy New Year 2026 – strong start!
+## 2026-01-01 – Day 14 (New Year)
+- Bandit: level 30 in progress (git tag)
+- Stuck on clone/tag – fresh head tomorrow
+- Python paused – Bandit priority
+- No rush – consistent is better than burnout
+
