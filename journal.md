@@ -80,3 +80,8 @@
 - Assignment done – following links and extracting data
 - Bandit paused – celebrating the progress
 - Happy New Year 2026 ahead!
+## 2026-01-01 – Day 14 (New Year!)
+- Python for Everybody Course 3: Chapter 13 (Web Services and XML) completed
+- XML parsing with elementtree mastered
+- Ready for databases and real-world data tools
+- Happy New Year 2026 – strong start!
