@@ -104,3 +104,10 @@
 - Ready for real-world OOP in projects
 - Work day – progress after shift
 
+## 2026-01-05 – Day 16 (MILESTONE)
+- OverTheWire Bandit COMPLETED (levels 0–33) 🔥
+- Linux, git exploitation, SUID, cron, ssh keys, vim escape – all mastered
+- One of the hardest CTF series finished
+- Python Course 4 in progress – strong year start
+- Ready for real CTF and projects
+
