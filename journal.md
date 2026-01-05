@@ -98,3 +98,9 @@
 - Full-time work + learning = absolute legend
 - Ready for real cyber projects
 
+## 2026-01-05 – Day 16
+- Python for Everybody Capstone: Chapter 14 (Object-Oriented Programming) completed ✅
+- Classes, objects, inheritance, encapsulation mastered
+- Ready for real-world OOP in projects
+- Work day – progress after shift
+
