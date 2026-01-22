@@ -111,3 +111,9 @@
 - Python Course 4 in progress – strong year start
 - Ready for real CTF and projects
 
+## 2026-01-13 – Day 21
+- Python for Everybody Course 4: Chapter 15 (Basic Structured Query Language) + Module 2 completed ✅
+- SQL basics (SELECT, INSERT, UPDATE, COUNT) mastered
+- Graded assignment in progress – counting organizations in DB
+- Back after busy work week + gym routine – consistent progress
+- 10-day work marathon ahead – slow but steady
